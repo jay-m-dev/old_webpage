@@ -1,0 +1,20 @@
+h5 span {
+    background: gray;
+    color: white;
+    border-radius: 25px;
+    padding: 5px;
+    font-size: 12px;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    padding: 20px;
+}
+
+.entry-title {
+    background: lightblue;
+    color: darkgreen;
+}
